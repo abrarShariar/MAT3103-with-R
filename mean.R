@@ -1,6 +1,5 @@
 
 #FINDING ARITHMETIC MEAN OF UNORDERED DATA
-#FIX FOR float/double input
 
 #simple finding of  mean of unordered data
 data <- c(10,20,30,40,-1,-2,-5,100)
@@ -21,7 +20,7 @@ input.vector <- c()	#initialize empty vector
 #loop and take user input
 for (index in c(1,2,3)){
 	data.input <- readline(prompt="Input: ")
-	data.input <- as.integer(data.input) #FIX for double
+	data.input <- as.numeric(data.input)
 	#print(data.input)
 	input.vector <- c(input.vector,data.input) 
 }
