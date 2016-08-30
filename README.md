@@ -8,3 +8,10 @@ MAT3103 - Statistics and Probability
 
 
 **Age vs. Frequency (dataset: [train.csv](https://github.com/abrarShariar/MAT3103-with-R/blob/master/dataset/train.csv))** 
+
+
+![sleep](https://raw.githubusercontent.com/abrarShariar/MAT3103-with-R/master/graphs/sleep.png)
+
+
+**Patients Sleep Boxplot (script :[sleep_data.R](https://github.com/abrarShariar/MAT3103-with-R/blob/master/sleep_data.R))**
+
